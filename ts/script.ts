@@ -6,7 +6,6 @@ interface User {
     name?: string;
     surname: string;
 }
-
 const user1:User = {
     name: 'John',
     surname: 'Smith'
